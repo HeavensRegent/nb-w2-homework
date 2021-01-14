@@ -1,6 +1,6 @@
 # nb-w2-homework
 
-Responsive portfolio page
+[Responsive portfolio page](https://heavensregent.github.io/nb-w2-homework/)
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
